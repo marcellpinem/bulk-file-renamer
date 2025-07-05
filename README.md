@@ -6,6 +6,11 @@ Bulk File Renamer adalah aplikasi GUI sederhana berbasis **Python** dan **Custom
 
 ---
 
+## DEMO APLIKASI
+[![Watch the demo](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://youtu.be/bXxegqfzi4A?si=CSS51yBG4lL72_jM)
+
+_(Click the badge above to watch the demo)_
+
 ## FITUR
 
 ✅ Tampilan dark mode dengan CustomTkinter  
@@ -43,10 +48,7 @@ pip install customtkinter
 python files_bulk_renamer.py
 ```
 
-## DEMO APLIKASI
 
-🔗 Tonton demo aplikasi di YouTube.
-https://youtu.be/bXxegqfzi4A?si=CSS51yBG4lL72_jM
 
 ## PENULIS
 
