@@ -7,7 +7,7 @@ Bulk File Renamer adalah aplikasi GUI sederhana berbasis **Python** dan **Custom
 ---
 
 ## DEMO APLIKASI
-[![Watch the demo](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://youtu.be/bXxegqfzi4A?si=CSS51yBG4lL72_jM)
+[![Watch the demo](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://youtu.be/sfqKK_xTTIo)
 
 _(Click the badge above to watch the demo)_
 
